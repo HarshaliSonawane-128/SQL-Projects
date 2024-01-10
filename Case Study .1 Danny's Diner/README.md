@@ -1,5 +1,5 @@
 🍜 Case Study #1 - Danny's Diner
-
+< img src = 'https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.1%20Danny's%20Diner/1.png'alt='MLBC'>
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business. Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
 
 https://www.google.com/imgres?imgurl=https%3A%2F%2F8weeksqlchallenge.com%2Fimages%2Fcase-study-designs%2F1.png&tbnid=xH9GjAekUazV-M&vet=12ahUKEwiypPyXw9KDAxXpsWMGHUXuCDIQMygAegQIARBR..i&imgrefurl=https%3A%2F%2F8weeksqlchallenge.com%2Fcase-study-1%2F&docid=0iwlJJXFueXaKM&w=1080&h=1080&q=8%20week%20sql%20challenge%20case%20study%20%231&ved=2ahUKEwiypPyXw9KDAxXpsWMGHUXuCDIQMygAegQIARBR Table of Contents
