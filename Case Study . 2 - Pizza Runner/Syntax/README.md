@@ -37,7 +37,7 @@ View my solution [Here](https://github.com/HarshaliSonawane-128/SQL-Projects/blo
 10. What was the volume of orders for each day of the week?
 
 ### B. Runner and Customer Experience
-View my solution HERE.
+View my solution [HERE](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/B.%20Runner%20and%20Customer%20Experience.sql)
 
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
