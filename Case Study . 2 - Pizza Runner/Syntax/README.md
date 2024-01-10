@@ -89,4 +89,4 @@ If Danny wants to expand his range of pizzas - how would this impact the existin
 
 ## 🚀 My Solution
 - View the complete syntax [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/Syntax)
-- View the result and explanation HERE.
+- View the result and explanation [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/Solutions)
