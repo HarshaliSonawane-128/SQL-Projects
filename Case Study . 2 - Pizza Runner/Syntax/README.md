@@ -23,7 +23,7 @@ Danny wanted to expand his new Pizza Empire and intended to Uberize it with Pizz
 ## ❓ Case Study Questions
 
 ### A. Pizza Metrics
-View my solution HERE.
+View my solution [Here](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/Solutions/A.%20Pizza%20Metrics.md.md)
 
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
