@@ -8,6 +8,7 @@ Danny was sold on the idea, but he knew that pizza alone was not going to help h
 
 Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
 
+![pizza runner](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/2.png)
 ## 📕 Table of Contents
 - Bussiness Task
 - Entity Relationship Diagram
