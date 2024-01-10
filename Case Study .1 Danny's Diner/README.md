@@ -36,7 +36,7 @@ Which item was purchased first by the customer after they became a member ?
 View the complete syntax 
 [Here](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.1%20Danny's%20Diner/Syntax)
 
-### Tool used: MySql 
+- Tool used: MySql 
 
 ## Q1. What is the total amount each customer spent at the restaurant?
 
