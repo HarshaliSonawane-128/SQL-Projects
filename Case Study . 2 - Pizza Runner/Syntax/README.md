@@ -19,7 +19,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 Danny wanted to expand his new Pizza Empire and intended to Uberize it with Pizza Runner. Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
 
 ## 🔐 Entity Relationship Diagram
-
+![ERD](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/2ERD.png)
 ## ❓ Case Study Questions
 
 ### A. Pizza Metrics
