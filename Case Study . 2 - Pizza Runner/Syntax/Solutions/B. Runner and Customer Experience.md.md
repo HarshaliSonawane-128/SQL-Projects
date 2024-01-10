@@ -133,3 +133,4 @@ order by runner_id;
 | 2         | 4               | 4            | 100                         |
 | 3         | 2               | 2            | 100                         |
 
+My Solution for [C.Ingredients optimization ] (https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/Solutions/C.Ingredients%20Optimization.md.md)
