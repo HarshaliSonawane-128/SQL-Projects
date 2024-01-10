@@ -88,5 +88,5 @@ View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/bl
 If Danny wants to expand his range of pizzas - how would this impact the existing data design? Write an INSERT statement to demonstrate what would happen if a new Supreme pizza with all the toppings was added to the Pizza Runner menu?
 
 ## 🚀 My Solution
-- View the complete syntax [HERE.]([https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/Solutions](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/Syntax)https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/Syntax)
+- View the complete syntax [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/Syntax)
 - View the result and explanation HERE.
