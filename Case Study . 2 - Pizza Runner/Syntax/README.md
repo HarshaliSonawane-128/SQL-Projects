@@ -48,7 +48,7 @@ View my solution [HERE](https://github.com/HarshaliSonawane-128/SQL-Projects/blo
 7. What is the successful delivery percentage for each runner?
 
 ### C. Ingredient Optimisation
-View my solution HERE.
+View my solution[ HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/Solutions/C.Ingredients%20Optimization.md.md)
 
 1. What are the standard ingredients for each pizza?
 2. What was the most commonly added extra?
