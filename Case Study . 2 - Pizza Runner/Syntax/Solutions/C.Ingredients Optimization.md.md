@@ -200,3 +200,5 @@ ORDER BY COUNT(*) DESC;
 | Cheese       | 4                |
 | Mushrooms    | 1                |
 | BBQ Sauce    | 1                |
+
+My Solution for [D,Price and Ratings ](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.%202%20-%20Pizza%20Runner/Syntax/Solutions/D.%20Pricing%20and%20Ratings.md.md)
