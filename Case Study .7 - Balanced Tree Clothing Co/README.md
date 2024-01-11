@@ -54,7 +54,7 @@ View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/bl
 10. What is the most common combination of at least 1 quantity of any 3 products in a 1 single transaction?
 
 ### D. Bonus Challenge
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/Solutions/D.%20Bonus%20Question.md)
 Use a single SQL query to transform the `product_hierarchy` and `product_prices` datasets to the product_details table.
 
 ## 🚀 My Solution
