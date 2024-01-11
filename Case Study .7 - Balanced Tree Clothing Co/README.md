@@ -40,7 +40,7 @@ View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/bl
 What is the percentage split of all transactions for members vs non-members?
 5. What is the average revenue for member transactions and non-member transactions?
 ### C. Product Analysis
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/Solutions/C.%20Product%20Analysis.md)
 
 1. What are the top 3 products by total revenue before discount?
 2. What is the total quantity, revenue and discount for each segment?
