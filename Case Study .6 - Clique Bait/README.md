@@ -21,7 +21,7 @@ In this case study - you are required to support Danny’s vision and analyse hi
 ## ❓ Case Study Questions
 
 ### A. Digital Analysis
-View my solution HERE.
+View my solution[ HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.6%20-%20Clique%20Bait/Solutions/A.%20Digital%20Analysis.md)
 
 Using the available datasets - answer the following questions using a single query for each one:
 
