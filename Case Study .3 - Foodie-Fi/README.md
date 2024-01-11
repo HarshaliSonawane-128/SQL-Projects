@@ -45,5 +45,5 @@ View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/bl
 
 
 ## 🚀 My Solution
-- View the complete syntax HERE.
+- View the complete syntax [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.3%20-%20Foodie-Fi/syntax)
 - View the result and explanation HERE.
