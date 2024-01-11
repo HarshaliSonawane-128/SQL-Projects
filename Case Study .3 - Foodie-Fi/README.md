@@ -24,7 +24,7 @@ This case study focuses on using subscription style digital data to answer some 
 
 ## ❓ Case Study Questions
 ### A. Customer Journey
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.3%20-%20Foodie-Fi/Solutions/A.%20Customer%20Journey.md)
 
 Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
 
