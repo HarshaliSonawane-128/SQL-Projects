@@ -41,5 +41,5 @@ View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/bl
 4. What is the closing balance for each customer at the end of the month?
 5. What is the percentage of customers who increase their closing balance by more than 5%?
 ## 🚀 My Solution
-- View the complete syntax HERE.
+- View the complete syntax [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.4%20-%20Data%20Bank/Syntax)
 - View the result and explanation [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.4%20-%20Data%20Bank/Solution)
