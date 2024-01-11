@@ -7,7 +7,7 @@ Clients share their customer lists with the Fresh Segments team who then aggrega
 
 Danny has asked for your assistance to analyse aggregated metrics for an example client and provide some high level insights about the customer list and their interests.
 
-1[pic](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.8%20-%20Fresh%20Segments/8.png)
+![pic](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.8%20-%20Fresh%20Segments/8.png)
 
 ## 📕 Table of Contents
 - Bussiness Task
@@ -22,7 +22,7 @@ Clients share their customer lists with the Fresh Segments team who then aggrega
 Danny has asked for your assistance to analyse aggregated metrics for an example client and provide some high level insights about the customer list and their interests.
 
 ## 🔐 Entity Relationship Diagram
-
+![DSD](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.8%20-%20Fresh%20Segments/ERD-8.png)
 
 ## ❓ Case Study Questions
 
