@@ -175,3 +175,5 @@ group by month_year order by month_year ;
 | 2019-06-01 | 804   |
 | 2019-07-01 | 836   |
 | 2019-08-01 | 1062  |
+
+My Solution for [C.Segment Anlysis ](https://github.com/HarshaliSonawane-128/SQL-Projects/edit/main/Case%20Study%20.8%20-%20Fresh%20Segments/Solutions/C.%20Segment%20Analysis.md) 
