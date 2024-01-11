@@ -31,7 +31,7 @@ View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/bl
 2. What is the total generated revenue for all products before discounts?
 3. What was the total discount amount for all products?
 ### B. Transaction Analysis
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/Solutions/B.%20Transaction%20Analysis.md)
 
 1. How many unique transactions were there?
 2. What is the average unique products purchased in each transaction?
@@ -55,7 +55,6 @@ View my solution HERE.
 
 ### D. Bonus Challenge
 View my solution HERE.
-
 Use a single SQL query to transform the `product_hierarchy` and `product_prices` datasets to the product_details table.
 
 ## 🚀 My Solution
