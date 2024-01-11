@@ -59,5 +59,5 @@ View my solution HERE.
 Use a single SQL query to transform the `product_hierarchy` and `product_prices` datasets to the product_details table.
 
 ## 🚀 My Solution
-- View the complete syntax [HERE.](
+- View the complete syntax [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/Syntax)
 - View the result and explanation [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/Solutions)
