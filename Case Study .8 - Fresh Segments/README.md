@@ -27,7 +27,7 @@ Danny has asked for your assistance to analyse aggregated metrics for an example
 ## ❓ Case Study Questions
 
 ### A. Data Exploration and Cleansing
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.8%20-%20Fresh%20Segments/Solutions/A.%20Data%20Exploration%20and%20Cleansing.md)
 
 1. Update the `fresh_segments.interest_metrics` table by modifying the `month_year` column to be a date data type with the start of the month ?
 2. What is count of records in the `fresh_segments.interest_metrics` for each `month_year` value sorted in chronological order (earliest to latest) with the null values appearing first?
