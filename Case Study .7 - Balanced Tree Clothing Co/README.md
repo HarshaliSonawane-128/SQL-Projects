@@ -25,7 +25,7 @@ Bonus question
 
 ## ❓ Case Study Questions
 ### A. High Level Sales Analysis
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/Solutions/A.%20High%20Level%20Sales%20Analysis.md)
 
 1. What was the total quantity sold for all products?
 2. What is the total generated revenue for all products before discounts?
