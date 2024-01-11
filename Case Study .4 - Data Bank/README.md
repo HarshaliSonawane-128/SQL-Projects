@@ -7,7 +7,7 @@ The management team at Data Bank want to increase their total customer base - bu
 
 This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
 
-pic 
+![img](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.4%20-%20Data%20Bank/4.png)
 
 ## 📕 Table of Contents
 - Bussiness Task
