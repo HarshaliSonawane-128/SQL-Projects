@@ -20,6 +20,7 @@ Danny and his friends launched a new startup called "Food-Fi" in 2020 and starte
 This case study focuses on using subscription style digital data to answer some important questions such as business performance, payments, and customer journey.
 
 ## 🔐 Entity Relationship Diagram
+![ERD](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.3%20-%20Foodie-Fi/ERD-3.png)
 
 ## ❓ Case Study Questions
 ### A. Customer Journey
