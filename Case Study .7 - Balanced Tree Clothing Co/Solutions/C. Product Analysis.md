@@ -278,4 +278,4 @@ WHERE common_combinations = (SELECT MAX(common_combinations)
 | e31d39      | Cream Relaxed Jeans - Womens                             |
 
 
-My solution for D. Bonus Question.
+My solution for [D. Bonus Question.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/Solutions/D.%20Bonus%20Question.md)
