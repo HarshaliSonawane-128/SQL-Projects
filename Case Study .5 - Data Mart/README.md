@@ -72,4 +72,5 @@ View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/bl
 
 ## 🚀 My Solution
 - View the complete syntax [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.5%20-%20Data%20Mart/syntax)
-- View the result and explanation HERE
+- View the result and explanation [HERE](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.5%20-%20Data%20Mart/Solution)
+
