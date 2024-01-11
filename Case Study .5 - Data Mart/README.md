@@ -21,6 +21,7 @@ Danny needs your help to analyse and quantify the impact of this change on the s
 - What can we do about future introduction of similar sustainability updates to the business to minimise impact on sales?
 
 ## 🔐 Entity Relationship Diagram
+![ERD](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.5%20-%20Data%20Mart/ERD-5..png)
 
 ## ❓ Case Study Questions
 
