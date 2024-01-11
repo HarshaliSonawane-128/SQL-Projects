@@ -58,7 +58,7 @@ Use your 2 new output tables - answer the following questions:
 4. What is the average conversion rate from cart add to purchase?
 --- 
 ## C. Campaigns Analysis
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.6%20-%20Clique%20Bait/Solutions/C.%20Campaigns%20Analysis.md)
 
 Generate a table that has 1 single row for every unique `visit_id` record and has the following columns:
 
