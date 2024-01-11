@@ -217,3 +217,5 @@ from product_summary ;
 |concersion_rate|
 |----|
 |131.73|
+
+My Solution [C.Campaigns Solution ](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.6%20-%20Clique%20Bait/Solutions/C.%20Campaigns%20Analysis.md)
