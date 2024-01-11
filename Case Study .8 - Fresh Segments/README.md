@@ -55,11 +55,10 @@ View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/ed
 2. Which 5 interests had the lowest average ranking value?
 3. Which 5 interests had the largest standard deviation in their `percentile_ranking` value?
 4. For the 5 interests found in the previous question - what was minimum and maximum `percentile_ranking` values for each interest and its corresponding `year_month` value? Can you describe what is happening for these 5 interests?
-4. How would you describe our customers in this segment based off their composition and ranking values? What sort of products or services should we show to these customers and what should we avoid?
+4. How would you describe our customers in this segment based off their composition and ranking values? What sort of products or services should we show to these 9customers and what should we avoid?
 
 ## D. Index Analysis
-View my solution HERE.
-
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/edit/main/Case%20Study%20.8%20-%20Fresh%20Segments/Solutions/D.Index%20Analysis.md)
 The `index_value` is a measure which can be used to reverse calculate the average composition for Fresh Segments’ clients.
 Average composition can be calculated by dividing the composition column by the `index_value` column rounded to 2 decimal places.
 
