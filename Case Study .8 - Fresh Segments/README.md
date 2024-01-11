@@ -67,5 +67,5 @@ Average composition can be calculated by dividing the composition column by the 
 2 . For all of these top 10 interests - which interest appears the most often?
 
 ## 🚀 My Solution
-- View the complete syntax HERE.
+- View the complete syntax [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.8%20-%20Fresh%20Segments/Syntax)
 - View the result and explanation [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.8%20-%20Fresh%20Segments/Solutions)
