@@ -25,7 +25,7 @@ The management team at Data Bank want to increase their total customer base - bu
 
 ## ❓ Case Study Questions
 ### A. Customer Nodes Exploration
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.4%20-%20Data%20Bank/Solution/A.%20Customer%20Nodes%20Exploration.md)
 
 1. How many unique nodes are there on the Data Bank system?
 2. What is the number of nodes per region?
