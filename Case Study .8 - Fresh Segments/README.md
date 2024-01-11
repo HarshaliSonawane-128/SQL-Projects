@@ -48,7 +48,7 @@ View my solution[ HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/bl
 5. After removing these interests - how many unique interests are there for each month?
 
 ## C. Segment Analysis
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/edit/main/Case%20Study%20.8%20-%20Fresh%20Segments/Solutions/C.%20Segment%20Analysis.md)
 
 1. Using our filtered dataset by removing the interests with less than 6 months worth of data, which are the top 10 and bottom 10 interests which have the largest composition values in any `month_year`?
 3. Only use the maximum composition value for each interest but you must keep the corresponding `month_year`.
