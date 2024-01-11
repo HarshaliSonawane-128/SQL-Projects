@@ -57,7 +57,7 @@ Danny needs your help to analyse and quantify the impact of this change on the s
 - Generate a new `avg_transaction` column as the sales value divided by `transactions` rounded to 2 decimal places for each record
 
 ## B. Data Exploration
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.5%20-%20Data%20Mart/Solution/B.%20Data%20Exploration.md)
 
 1. What day of the week is used for each `week_date` value?
 2. What range of week numbers are missing from the dataset?
