@@ -133,3 +133,5 @@ where interest_id = 21246;
 | 33191| Online Shoppers            | People who spend money online                             | 2018-07-17 10:40:03 | 2018-07-17 10:46:58 | 7      | 2018  | 33191       | 3.99        | 2.11        | 283     | 61.18              | 2018-07-01 |
 | 32703| School Supply Shoppers      | Consumers shopping for classroom supplies for K-12 stu... | 2018-07-06 14:35:04 | 2018-07-06 14:35:04 | 7      | 2018  | 32703       | 5.53        | 1.8         | 375     | 48.56              | 2018-07-01 |
 | 32701| Womens Equality Advocates   | People visiting sites advocating for women's equal rig... | 2018-07-06 14:35:03 | 2018-07-06 14:35:03 | 7      | 2018  | 32701       | 4.23        | 1.41        | 483     | 33.74              | 2018-07-01 |
+
+My Solution for [B.Interest Analysis](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.8%20-%20Fresh%20Segments/Solutions/B.%20Interest%20Analysis.md)
