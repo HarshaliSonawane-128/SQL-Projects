@@ -59,4 +59,4 @@ WHERE end_date!='9999-12-31';
 |--------------|
 |    14.63     |
 
-### My solution for B. Customer Transactions.
+### My solution for [B.Customer Transactions.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.4%20-%20Data%20Bank/Solution/B.%20Customer%20Transactions.md)
