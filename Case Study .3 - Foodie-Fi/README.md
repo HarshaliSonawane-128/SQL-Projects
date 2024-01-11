@@ -1,6 +1,6 @@
 # 🥑 Case Study .3 - Foodie-Fi
 
-pic 
+![pic ](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.3%20-%20Foodie-Fi/3.png)
 
 Danny was scrolling through his Instagram feed when something really caught his eye - “80s Retro Styling and Pizza Is The Future!”
 
