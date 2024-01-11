@@ -21,6 +21,7 @@ Regular questions
 ![se](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/ERD.7.1.png)
 
 Bonus question
+![sawd](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/ERD7.2.png)
 
 ## ❓ Case Study Questions
 ### A. High Level Sales Analysis
