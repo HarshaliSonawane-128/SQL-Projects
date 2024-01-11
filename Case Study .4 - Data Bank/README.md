@@ -21,6 +21,7 @@ Danny launched a new initiative, Data Bank which runs banking activities and als
 The management team at Data Bank want to increase their total customer base - but also need some help tracking just how much data storage their customers will need. This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
 
 ## 🔐 Entity Relationship Diagram
+![ERD](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.4%20-%20Data%20Bank/ERD.4.png)
 
 ## ❓ Case Study Questions
 ### A. Customer Nodes Exploration
