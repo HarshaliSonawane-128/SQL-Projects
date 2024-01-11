@@ -68,4 +68,4 @@ Average composition can be calculated by dividing the composition column by the 
 
 ## 🚀 My Solution
 - View the complete syntax HERE.
-- View the result and explanation HERE.
+- View the result and explanation [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.8%20-%20Fresh%20Segments/Solutions)
