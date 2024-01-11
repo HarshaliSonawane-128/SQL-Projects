@@ -73,5 +73,5 @@ Generate a table that has 1 single row for every unique `visit_id` record and ha
 - `click`: count of ad clicks for each visit
 
 ## 🚀 My Solution
-- View the complete syntax HERE.
-- View the result and explanation HERE.
+- View the complete syntax [HERE.](
+- View the result and explanation [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/tree/main/Case%20Study%20.6%20-%20Clique%20Bait/Solutions)
