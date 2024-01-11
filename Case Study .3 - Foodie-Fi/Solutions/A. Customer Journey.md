@@ -187,4 +187,4 @@ select *
 | 1       | basic monthly   | 9.90   | 400         | 1       | 2020-05-04 |
 
 
-##### My solution for B. Data Analysis Questions.
+##### My solution for[ B. Data Analysis Questions.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.3%20-%20Foodie-Fi/Solutions/B.%20Data%20Analysis%20Questions.md)
