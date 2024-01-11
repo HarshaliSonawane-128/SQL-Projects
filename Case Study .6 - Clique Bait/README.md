@@ -38,7 +38,7 @@ Using the available datasets - answer the following questions using a single que
 ---
 
 ## B. Product Funnel Analysis
-View my solution HERE.
+View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.6%20-%20Clique%20Bait/Solutions/B.%20Product%20Funnel%20Analysis.md)
 
 Using a single SQL query - create a new output table which has the following details:
 
