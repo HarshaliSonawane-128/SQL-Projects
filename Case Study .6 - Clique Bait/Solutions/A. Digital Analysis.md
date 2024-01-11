@@ -148,4 +148,4 @@ WHERE ei.event_name = 'Purchase';
 |---|
 |15.50|
 
-My solution for B. Product Funnel Analysis.
+My solution for[ B.Product Funnel Analysis.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.6%20-%20Clique%20Bait/Solutions/B.%20Product%20Funnel%20Analysis.md)
