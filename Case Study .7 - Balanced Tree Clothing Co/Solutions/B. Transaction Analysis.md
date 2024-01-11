@@ -22,6 +22,7 @@ group by txn_id) temp ;
 |---|
 |6.0380|
 
+My Solution of [C.Product Anlysis ](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/Solutions/C.%20Product%20Analysis.md)
 
 ### 3. What are the 25th, 50th and 75th percentile values for the revenue per transaction?
 ```sql
