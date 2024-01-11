@@ -39,7 +39,7 @@ View my solution [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/bl
 Are there any records in your joined table where the `month_year` value is before the `created_at` value from the `fresh_segments.interest_map` table? Do you think these values are valid and why?
 
 ## B. Interest Analysis
-View my solution HERE.
+View my solution[ HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.8%20-%20Fresh%20Segments/Solutions/B.%20Interest%20Analysis.md)
 
 1. Which interests have been present in all `month_year` dates in our dataset?
 2. Using this same `total_months` measure - calculate the cumulative percentage of all records starting at 14 months - which `total_months` value passes the 90% cumulative percentage value?
