@@ -55,4 +55,4 @@ from balanced_tree.sales ;
 |---|
 |312458.2800|
 
-My solution for B. Transaction Analysis.
+My solution for [B. Transaction Analysis.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Case%20Study%20.7%20-%20Balanced%20Tree%20Clothing%20Co/Solutions/B.%20Transaction%20Analysis.md)
