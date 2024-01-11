@@ -2,7 +2,7 @@
 # 🍊 Case Study #8 - Fresh Segments
 ## C. Segment Analysis
 
-## 1. Using our filtered dataset by removing the interests with less than 6 monthsworth of data, which are the top 10 and bottom 10 interests which have the largest composition values in any month_year? Only use the  maximum composition value for each interest but you must keep the corresponding month_year.
+### 1. Using our filtered dataset by removing the interests with less than 6 monthsworth of data, which are the top 10 and bottom 10 interests which have the largest composition values in any month_year? Only use the  maximum composition value for each interest but you must keep the corresponding month_year.
 
 ```sql 
  select 
@@ -101,3 +101,4 @@ select
 
 
 
+My Solution for [D.Index Analysis](https://github.com/HarshaliSonawane-128/SQL-Projects/edit/main/Case%20Study%20.8%20-%20Fresh%20Segments/Solutions/D.Index%20Analysis.md)
