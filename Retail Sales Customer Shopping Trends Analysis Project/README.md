@@ -2,7 +2,7 @@
 # Retail Sales Customer Shopping Trends Analysis Project
 Data Anlysis and find businesses looking to apply data-driven insights for better decision-making and customer-centric strategies.
 
-1[pic ]([https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Retail%20Sales%20Customer%20Shopping%20Trends%20Analysis%20Project/img.webp](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Retail%20Sales%20Customer%20Shopping%20Trends%20Analysis%20Project/images%20(1).jpeg))
+1[pic ]([https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Retail%20Sales%20Customer%20Shopping%20Trends%20Analysis%20Project/img.webp](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Retail%20Sales%20Customer%20Shopping%20Trends%20Analysis%20Project/images%20(1).jpeg)
 
 ### About Dataset
 Dataset gathered from the Kaggle website [Kaggle ;customer-shopping-trends-dataset/](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/)
