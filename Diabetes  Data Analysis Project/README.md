@@ -34,7 +34,7 @@ There are two main types of diabetes:
 16. Define a unique constraint on the "patient_id" column to ensure its values are unique.
 17. Create a view that displays the Patient_ids, ages, and BMI of patients.
 18. Suggest improvements in the database schema to reduce data redundancy and
-improve data integrity. Answer 
-19. Explain how you can optimize the performance of SQL queries on this dataset ? Answer 
+improve data integrity.[ Answer ](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Diabetes%20%20Data%20Analysis%20Project/Document%20of%20Data%20Analysis.pdf)
+19. Explain how you can optimize the performance of SQL queries on this dataset ? [Answer ](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Diabetes%20%20Data%20Analysis%20Project/Document%20of%20Data%20Analysis.pdf)
 
 ### Solution of all Business Question HERE.
