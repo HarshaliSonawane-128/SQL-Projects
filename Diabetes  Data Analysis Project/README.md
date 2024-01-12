@@ -1,6 +1,6 @@
 
 # Diabetes Data Analysis Project
-PIC
+![DCS](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Diabetes%20%20Data%20Analysis%20Project/images%20(1).jpeg)
 
 ## Overview about  Diabetes
 Diabetes is a chronic medical condition that occurs when the body is unable to properly regulate blood sugar (glucose) levels. 
