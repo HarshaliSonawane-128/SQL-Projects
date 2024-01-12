@@ -37,4 +37,4 @@ There are two main types of diabetes:
 improve data integrity.[ Answer ](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Diabetes%20%20Data%20Analysis%20Project/Document%20of%20Data%20Analysis.pdf)
 19. Explain how you can optimize the performance of SQL queries on this dataset ? [Answer ](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Diabetes%20%20Data%20Analysis%20Project/Document%20of%20Data%20Analysis.pdf)
 
-### Solution of all Business Question HERE.
+### Syntax of all Business Question [HERE.](https://github.com/HarshaliSonawane-128/SQL-Projects/blob/main/Diabetes%20%20Data%20Analysis%20Project/Diabetes%20Data%20Analysis%20Project.sql)
